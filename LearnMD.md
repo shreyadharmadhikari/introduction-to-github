@@ -22,3 +22,19 @@ count++;
 }
 ```
 
+- [x] This task is not completed
+- [ ] This task is completed..Congrats!
+
+
+
+Numbered List
+
+1. One
+2. Two
+3. Three
+
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
