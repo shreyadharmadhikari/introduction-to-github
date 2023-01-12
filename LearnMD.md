@@ -6,3 +6,19 @@
 ###### This is H6
 
 ![Image of Yaktocat](https://octodex.github.com/images/puddle_jumper_octodex.jpg)
+
+```
+This is some plain text of code
+which I want to look like this 
+Ohh cool 
+
+
+
+C:
+
+for(int i=0; i<5; i++)
+{
+count++;
+}
+```
+
